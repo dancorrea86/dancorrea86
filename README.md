@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @dancorrea86
 
 - 👀 I’m work with ...
-Currently I am work with C#, in the past I worked with Python.
+Currently I am working in a project that use C# on backend, AngularJs e Javascript no frontend. Also we have some implementations with Python. 
 
 - 🌱 I’m currently learning ...
-Learning Data Science, with Python and Sklearn, with projects of classification of data.
+I am making a course obout Learning Data Science, with Python and Sklearn, with projects of classification of data.
+
 
 - 📫 How to reach me ...
 Email: danielmacielcorrea@gmail.com
